@@ -1,17 +1,32 @@
-# Serezjjja
+# Sergei Rozman · Serezjjja
 
-I build web applications, interactive 3D experiences, 360° virtual tours, and desktop tools.
+**Full-Stack & Interactive 3D / WebGL Developer**
+
+I build web applications that connect interactive 3D experiences with tools for creating, managing and publishing content. My work focuses on architecture and real estate: interactive buildings, apartment selection, floor plans and 360° virtual tours.
+
+Available for remote work · Open to relocation
+
+## Selected work
+
+**PanoCraft — 360° Tour Authoring Platform**  
+Creator & sole application developer. Account-based workspaces, a visual tour editor, panoramas and hotspots, floor-plan navigation, live previews, versioned publishing and static ZIP exports.
+
+**STONE Sokolniki — Interactive Residential Viewer**  
+Sole application developer on a client project. Interactive three-tower viewer with facade picking, apartment filters, camera transitions, floor plans, favorites and linked interior tours. Includes Blender/GLB asset preparation, mesh optimization and accelerated raycasting.
+
+**PanoCraft3D — Apartment Planning Editor**  
+Independent adaptation and extension of Blueprint3D Modern (MIT): Russian editor UI, local furniture and material catalogs, project persistence, JSON import/export and Undo/Redo. The core geometry and 2D/3D engine come from the upstream project.
 
 ## Technology stack
 
-**Frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS · Vite · Framer Motion
+**Languages & frontend:** TypeScript · JavaScript · React · Next.js App Router · HTML · CSS · Tailwind CSS · Vite
 
-**3D & 360°:** Three.js · Photo Sphere Viewer · glTF · glTF Transform · Meshoptimizer · three-mesh-bvh
+**Interactive 3D:** Three.js · WebGL · Photo Sphere Viewer · Blender · glTF/GLB · PBR materials · glTF Transform · meshoptimizer · three-mesh-bvh
 
-**Backend & data:** Node.js · NestJS · Express · PostgreSQL · Redis · WebSocket · S3-compatible storage
+**Backend & storage:** Node.js · REST APIs · SQLite · Zod · S3-compatible storage · AWS SDK · Sharp · JSON versioning
 
-**Desktop & games:** Electron · Java · NeoForge
+**UI & state:** Zustand · Radix UI · shadcn-style components · Framer Motion · next-intl · Canvas 2D · IndexedDB
 
-**Testing & tools:** Playwright · Vitest · Zod · Sharp · Git
+**Testing & quality:** Vitest · Playwright · Node.js test runner · TypeScript strict checking · ESLint · Prettier · jsdom · axe
 
-**Other languages:** Python · Go
+**Delivery & tools:** Git/GitHub · npm/pnpm · tsx · PostCSS · fflate · static exports · Docker Compose · Caddy
