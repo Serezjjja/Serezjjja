@@ -6,5 +6,3 @@ I build browser-based tools, 3D viewers and 360° experiences.
 
 `TypeScript` · `JavaScript` · `React` · `Next.js` · `Node.js`  
 `Three.js` · `WebGL` · `Blender`
-
-[Email](mailto:ser201485@mail.ru) · [Telegram](https://t.me/Serezjjja)
