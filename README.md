@@ -1,9 +1,17 @@
 # Serezjjja
 
+I build web applications, interactive 3D experiences, 360° virtual tours, and desktop tools.
+
 ## Technology stack
 
-**Frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS · Three.js · Photo Sphere Viewer
+**Frontend:** TypeScript · JavaScript · React · Next.js · Tailwind CSS · Vite · Framer Motion
 
-**Backend & tools:** Node.js · AWS S3 · Zod · Sharp · Vitest
+**3D & 360°:** Three.js · Photo Sphere Viewer · glTF · glTF Transform · Meshoptimizer · three-mesh-bvh
 
-**Other:** Python · Go
+**Backend & data:** Node.js · NestJS · Express · PostgreSQL · Redis · WebSocket · S3-compatible storage
+
+**Desktop & games:** Electron · Java · NeoForge
+
+**Testing & tools:** Playwright · Vitest · Zod · Sharp · Git · GitHub Actions
+
+**Other languages:** Python · Go
