@@ -12,6 +12,6 @@ I build web applications, interactive 3D experiences, 360° virtual tours, and d
 
 **Desktop & games:** Electron · Java · NeoForge
 
-**Testing & tools:** Playwright · Vitest · Zod · Sharp · Git · GitHub Actions
+**Testing & tools:** Playwright · Vitest · Zod · Sharp · Git
 
 **Other languages:** Python · Go
